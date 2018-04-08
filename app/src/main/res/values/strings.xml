@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MediaPlayer</string>
+    <string name="back"><![CDATA[<]]></string>
+    <string name="rewind"><![CDATA[<<]]></string>
+    <string name="forward"><![CDATA[>>]]></string>
+    <string name="pause">||</string>
+    <string name="music_palyer">Music Palyer</string>
+    <string name="small_text">Small Text</string>
+    <string name="todo">TODO</string>
+    <string name="todo1">TODO</string>
+
+</resources>
